@@ -1,3 +1,0 @@
-prueba descargar desde github
-si sirvio xddd
-probando git fetch
